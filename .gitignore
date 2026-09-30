@@ -1,0 +1,6 @@
+out/
+*.class
+.DS_Store
+data/users/*.txt
+data/messages/*.txt
+data/keys/*.txt
